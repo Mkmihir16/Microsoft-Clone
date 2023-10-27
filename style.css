@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@media screen  and (min-width: 764px) {
+    .background
+{
+    background-image: url(bg1img.avif);
+    height: 539px;
+    width: 1349px;
+    margin: 0;
+    margin-top: 0.3rem;
+   
+}
+.background1
+{
+    background-image:url(coverimg.jpg);
+    height: 578px;
+    width: 1214px;
+}
+}
